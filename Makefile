@@ -1,5 +1,5 @@
 SYNCTHING_TAG ?= v1.27.3
-SYNCTHING_USER ?= chinanoahli
+SYNCTHING_USER ?= admin
 SYNCTHING_UI_PORT ?= 8384
 
 .PHONY: build-syncthing-container
